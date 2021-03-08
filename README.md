@@ -1,6 +1,4 @@
-### Hi there 👋
-
-You won't be the same after using this:
+### You won't be the same after using this:
 
 * [xonsh shell](https://xon.sh/) - Python-powered shell.
 
