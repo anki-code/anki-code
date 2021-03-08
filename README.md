@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**anki-code/anki-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You won't be the same after using this:
 
-Here are some ideas to get you started:
+* [xonsh shell](https://xon.sh/) - Python-powered shell.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * Navigation:
+    * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting xonsh shell.
+    * [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
+  * Commandlining:
+    * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts.
+    * [output_search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command.
+    * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
+    * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
+  * Prompt:
+    * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
+    * [prompt_starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
+  * History backend:
+    * [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history. Not activated by default.
+  * Dev tools:
+    * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
+
+* [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
