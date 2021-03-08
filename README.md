@@ -25,3 +25,6 @@ You won't be the same after using this:
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
 
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
+  
+  * [xxh-shell-xonsh](https://github.com/xxh/xxh-shell-xonsh) - Xonsh shell entrypoint for xxh.
+  * [xxh-dev](https://github.com/xxh/xxh-dev) - Development and test environment for xxh/xxh contains network of docker containers which allow to test the ssh connections.
