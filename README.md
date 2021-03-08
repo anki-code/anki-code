@@ -19,7 +19,7 @@ You won't be the same after using this:
     * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
     * [prompt_starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
   * History backend:
-    * [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history. Not activated by default.
+    * [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history.
   * Dev tools:
     * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
