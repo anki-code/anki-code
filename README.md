@@ -27,6 +27,6 @@
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
   
   * [xxh-shell-xonsh](https://github.com/xxh/xxh-shell-xonsh) - Xonsh shell entrypoint for xxh.
-  * [xxh-dev](https://github.com/xxh/xxh-dev) - Development and test environment for xxh/xxh contains network of docker containers which allow to test the ssh connections.
+  * [xxh-dev](https://github.com/xxh/xxh-dev) - Development env for xxh that is network of docker containers with ssh access in between.
 
 * [bar-theme](https://github.com/anki-code/bar-theme) - The shell prompt appearance conception called Bar.
