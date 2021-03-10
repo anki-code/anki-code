@@ -21,6 +21,8 @@
   * Dev tools:
     * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
+  * Portable:
+    * [xonsh.AppImage](https://xon.sh/appimage.html) - is one Linux-portable executable file which contains both xonsh and Python. 
 
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
   
