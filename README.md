@@ -9,7 +9,7 @@
     * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting xonsh shell.
     * [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
   * Commandlining:
-    * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts.
+    * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts using [argcomplete](https://github.com/kislyuk/argcomplete).
     * [output_search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command.
     * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
     * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
@@ -21,6 +21,7 @@
   * Dev tools:
     * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
+    * [xunter](https://github.com/anki-code/xunter) is to profiling the xonsh shell using [hunter](https://github.com/ionelmc/python-hunter).
   * Portable:
     * [xonsh.AppImage](https://xon.sh/appimage.html) - is one Linux-portable executable file which contains both xonsh and Python. Also [on Alpine](https://github.com/xonsh/xonsh/discussions/4158#discussioncomment-462032).
 
