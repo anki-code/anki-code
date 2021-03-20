@@ -1,6 +1,6 @@
 ### You won't be the same after using this:
 
-* [xonsh shell](https://xon.sh/) - Python-powered shell.
+* [The xonsh shell](https://xon.sh/) - Python-powered shell.
 
   * Learning:
     * [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. 
