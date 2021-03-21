@@ -22,6 +22,7 @@
     * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
     * [xunter](https://github.com/anki-code/xunter) - Profiling the xonsh shell code using [hunter](https://github.com/ionelmc/python-hunter).
+    * [my-xonsh-fork](https://github.com/anki-code/my-xonsh-fork) - Convert xonsh fork package name to the new.
   * Portable:
     * [xonsh.AppImage](https://xon.sh/appimage.html) - is one Linux-portable executable file which contains both xonsh and Python. Also [on Alpine](https://github.com/xonsh/xonsh/discussions/4158#discussioncomment-462032).
 
