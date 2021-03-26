@@ -25,6 +25,7 @@
     * [my-xonsh-fork](https://github.com/anki-code/my-xonsh-fork) - Convert your xonsh fork package name to the new.
   * Portable:
     * [xonsh.AppImage](https://xon.sh/appimage.html) - is one Linux-portable executable file which contains both xonsh and Python. Also [on Alpine](https://github.com/xonsh/xonsh/discussions/4158#discussioncomment-462032).
+    * [xonsh-portable-binary](https://github.com/anki-code/xonsh-portable-binary) - The proof of concept of building portable xonsh binary file.
 
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
   
