@@ -16,6 +16,8 @@
   * Prompt:
     * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
     * [prompt_starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
+  * Coding:
+    * [xontrib-macro-lib](https://github.com/anki-code/xontrib-macro-lib) - Library of the useful macroses for the xonsh shell. 
   * History backend:
     * [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history.
   * Dev tools:
