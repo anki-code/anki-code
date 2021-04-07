@@ -11,7 +11,7 @@
     * [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. 
     * [awesome-xonshrc](https://github.com/anki-code/awesome-xonshrc) - Awesome snippets of code for xonshrc in xonsh shell. 
   * Navigation:
-    * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting xonsh shell.
+    * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting the xonsh shell.
     * [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
   * Commandlining:
     * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts using [argcomplete](https://github.com/kislyuk/argcomplete).
