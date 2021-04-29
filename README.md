@@ -35,7 +35,7 @@
     * [xonsh.AppImage](https://xon.sh/appimage.html) - The one Linux-portable executable file which contains both xonsh and Python. Also [on Alpine](https://github.com/xonsh/xonsh/discussions/4158#discussioncomment-462032).
     * [xonsh-portable-binary](https://github.com/anki-code/xonsh-portable-binary) - The proof of concept of building portable xonsh binary file.
 
-* [pipi](https://github.com/anki-code/pipi) - The simple way to install PyPi packages using pip from any source: dir, PyPi projects, Github. 
+* [pipi](https://github.com/anki-code/pipi) - The simple way to install PyPi packages using pip from directory, PyPi projects, Github links. 
 
 * [bar-theme](https://github.com/anki-code/bar-theme) - The shell prompt appearance conception called Bar.
 
