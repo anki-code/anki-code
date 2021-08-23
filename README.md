@@ -3,7 +3,6 @@
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
   
   * [xxh-shell-xonsh](https://github.com/xxh/xxh-shell-xonsh) - Xonsh shell entrypoint for xxh.
-  * [xxh-dev](https://github.com/xxh/xxh-dev) - Development env for xxh that is network of docker containers with ssh access in between.
 
 * [The xonsh shell](https://xon.sh/) - Python-powered shell.
 
