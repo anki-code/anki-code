@@ -20,12 +20,11 @@
   * Prompt:
     * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
     * [prompt_starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
-  * Coding:
-    * [macro_lib](https://github.com/anki-code/xontrib-macro-lib) - Library of the useful macroses for the xonsh shell. 
   * History backend:
     * [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history.
   * Dev tools:
     * [xontrib-cookiecutter](https://github.com/xonsh/xontrib-cookiecutter) - A cookiecutter template to create, packaging and promote xontrib in 5 minutes.
+    * [macro_lib](https://github.com/anki-code/xontrib-macro-lib) - Library of the useful macroses for the xonsh shell. 
     * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
     * [xunter](https://github.com/anki-code/xunter) - Profiling the xonsh shell code using [hunter](https://github.com/ionelmc/python-hunter).
