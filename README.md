@@ -34,6 +34,8 @@
     * [xonsh-portable-binary](https://github.com/anki-code/xonsh-portable-binary) - The proof of concept of building portable xonsh binary file.
   * External tools:
     * [xonsh-vim-read](https://github.com/anki-code/xonsh-vim-read) - The xonsh shell wrapper to running the command via vim read.
+  * Metapackages:
+    * [xontrib-ergopack](https://github.com/anki-code/xontrib-ergopack) - Meta package that installs group of ergonomic xontribs in xonsh shell. 
 
 * [pipi](https://github.com/anki-code/pipi) - The simple way to install PyPi packages using pip from directory, PyPi projects, Github links. 
 
