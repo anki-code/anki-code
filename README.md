@@ -31,7 +31,7 @@
     * [my-xonsh-fork](https://github.com/anki-code/my-xonsh-fork) - Convert your xonsh fork package name to the new.
   * Portable:
     * [xonsh.AppImage](https://xon.sh/appimage.html) - The one Linux-portable executable file which contains both xonsh and Python. Also [on Alpine](https://github.com/xonsh/xonsh/discussions/4158#discussioncomment-462032).
-    * [xonsh-portable-binary](https://github.com/anki-code/xonsh-portable-binary) - Building xonsh binary file.
+    * [xonsh-binary](https://github.com/anki-code/xonsh-binary) - Building xonsh binary file.
   * External tools:
     * [xonsh-vim-read](https://github.com/anki-code/xonsh-vim-read) - The xonsh shell wrapper to running the command via vim read.
   * Metapackages:
