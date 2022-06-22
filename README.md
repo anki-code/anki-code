@@ -14,18 +14,18 @@
     * [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
   * Commandlining:
     * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts using [argcomplete](https://github.com/kislyuk/argcomplete).
-    * [output_search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command.
+    * [output-search](https://github.com/tokenizer/xontrib-output-search) -  Get words from the previous command output for the next command.
     * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
     * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
   * Prompt:
-    * [prompt_bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
-    * [prompt_starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
+    * [prompt-bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
+    * [prompt-starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
   * History backend:
-    * [history_encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history.
+    * [history-encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history.
   * Dev tools:
     * [xontrib-cookiecutter](https://github.com/xonsh/xontrib-cookiecutter) - A cookiecutter template to create, packaging and promote xontrib in 5 minutes.
-    * [macro_lib](https://github.com/anki-code/xontrib-macro-lib) - Library of the useful macroses for the xonsh shell. 
-    * [hist_format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
+    * [macro-lib](https://github.com/anki-code/xontrib-macro-lib) - Library of the useful macroses for the xonsh shell. 
+    * [hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
     * [xunter](https://github.com/anki-code/xunter) - Profiling the xonsh shell code using [hunter](https://github.com/ionelmc/python-hunter).
     * [my-xonsh-fork](https://github.com/anki-code/my-xonsh-fork) - Convert your xonsh fork package name to the new.
