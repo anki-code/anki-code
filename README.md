@@ -39,7 +39,7 @@
   * Xonsh Enrichment Proposals (XEP):
     * [XEP-2: Xonsh Operators Proposal - Single operator approach](https://github.com/anki-code/xonsh-operators-proposal/blob/main/XEP-2.rst)
 
-* [tokenize-output](https://github.com/anki-code/tokenize-output) - Get identifiers, names, paths, URLs and words from the command output.
+* [tokenize-output](https://github.com/anki-code/tokenize-output) - Get identifiers, names, paths, URLs and words from the command output i.e. use [xontrib-output-search](https://github.com/anki-code/xontrib-output-search).
 
 * [pipi](https://github.com/anki-code/pipi) - The simple way to install PyPi packages using pip from directory, PyPi projects, Github links. 
 
