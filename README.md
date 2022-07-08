@@ -8,7 +8,7 @@
 
   * Learning:
     * [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. 
-    * [awesome-xonshrc](https://github.com/anki-code/awesome-xonshrc) - Awesome snippets of code for xonshrc in xonsh shell. 
+    * [rc-awesome](https://github.com/anki-code/xontrib-rc-awesome) - Awesome snippets of code for xonshrc in xonsh shell. 
   * Navigation:
     * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting the xonsh shell.
     * [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
