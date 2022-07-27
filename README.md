@@ -23,7 +23,7 @@
   * History backend:
     * [history-encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history.
   * Dev tools:
-    * [xontrib-cookiecutter](https://github.com/xonsh/xontrib-cookiecutter) - A cookiecutter template to create, packaging and promote xontrib in 5 minutes.
+    * [xontrib-template](https://github.com/xonsh/xontrib-template) - A template to create, packaging and promote xontrib in 5 minutes.
     * [macro-lib](https://github.com/anki-code/xontrib-macro-lib) - Library of the useful macroses for the xonsh shell. 
     * [hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
