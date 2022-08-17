@@ -45,6 +45,6 @@
 
 * [bar-theme](https://github.com/anki-code/bar-theme) - The shell prompt appearance conception called Bar.
 
-### Sponsorship
+### ❤️ Sponsorship
 
 Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
