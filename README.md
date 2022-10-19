@@ -1,3 +1,7 @@
+### ❤️ Sponsorship
+
+Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
+
 ### You won't be the same after using this:
 
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
@@ -45,6 +49,3 @@
 
 * [bar-theme](https://github.com/anki-code/bar-theme) - The shell prompt appearance conception called Bar.
 
-### ❤️ Sponsorship
-
-Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
