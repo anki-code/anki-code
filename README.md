@@ -2,7 +2,7 @@
 
 Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
 
-### You won't be the same after using this:
+### 🚀 You won't be the same after using this:
 
 * [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
   
