@@ -14,6 +14,7 @@ Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
     * [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. 
     * [rc-awesome](https://github.com/anki-code/xontrib-rc-awesome) - Awesome snippets of code for xonshrc in xonsh shell. 
   * Navigation:
+    * [jump-to-dir](https://github.com/anki-code/xontrib-jump-to-dir) - Jump to directory. Lightweight zero-dependency implementation of autojump and zoxide functionality.
     * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting the xonsh shell.
     * [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
   * Commandlining:
