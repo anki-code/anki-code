@@ -25,6 +25,7 @@ Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
   * Prompt:
     * [prompt-bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
     * [prompt-starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
+    * [cmd-durations](https://github.com/jnoortheen/xontrib-cmd-durations) - Show notification when command is done and terminal is not focused. 
   * History backend:
     * [history-encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history.
   * Dev tools:
