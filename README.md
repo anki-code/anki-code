@@ -22,6 +22,7 @@ Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
     * [output-search](https://github.com/anki-code/xontrib-output-search) -  Get words from the previous command output for the next command.
     * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
     * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
+    * [clp](https://github.com/anki-code/xontrib-clp) - Copy output to clipboard.
   * Prompt:
     * [prompt-bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
     * [prompt-starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
