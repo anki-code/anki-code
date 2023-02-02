@@ -19,10 +19,11 @@ Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
     * [onepath](https://github.com/anki-code/xontrib-onepath) - Associate files with app and run it without preceding commands.
   * Commandlining:
     * [argcomplete](https://github.com/anki-code/xontrib-argcomplete) - Tab completion of python and xonsh scripts using [argcomplete](https://github.com/kislyuk/argcomplete).
+    * [clp](https://github.com/anki-code/xontrib-clp) - Copy output to clipboard.
     * [output-search](https://github.com/anki-code/xontrib-output-search) -  Get words from the previous command output for the next command.
     * [pipeliner](https://github.com/anki-code/xontrib-pipeliner) - Let your pipe lines flow thru the Python code.
+    * [pm](https://github.com/anki-code/xontrib-pm) - Persistent aliases for package managers.
     * [sh](https://github.com/anki-code/xontrib-sh) - Paste and run commands from bash, zsh, fish, tcsh in xonsh shell.
-    * [clp](https://github.com/anki-code/xontrib-clp) - Copy output to clipboard.
   * Prompt:
     * [prompt-bar](https://github.com/anki-code/xontrib-prompt-bar) - The bar prompt for xonsh shell with customizable sections. 
     * [prompt-starship](https://github.com/anki-code/xontrib-prompt-starship) - Starship cross-shell prompt in xonsh shell. 
