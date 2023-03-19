@@ -32,7 +32,7 @@ Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
     * [history-encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history.
   * Dev tools:
     * [xontrib-template](https://github.com/xonsh/xontrib-template) - A template to create, packaging and promote xontrib in 5 minutes.
-    * [macro-lib](https://github.com/anki-code/xontrib-macro-lib) - Library of the useful macroses for the xonsh shell. 
+    * [macro](https://github.com/anki-code/xontrib-macro) - Library of the useful macroses for the xonsh shell. 
     * [hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
     * [xunter](https://github.com/anki-code/xunter) - Profiling the xonsh shell code using [hunter](https://github.com/ionelmc/python-hunter).
