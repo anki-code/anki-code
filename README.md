@@ -1,6 +1,6 @@
 ### ❤️ Sponsorship
 
-Just [buy me a coffee or few](https://www.buymeacoffee.com/xxh). Thanks!
+Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
 
 ### 🚀 You won't be the same after using this:
 
