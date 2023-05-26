@@ -51,5 +51,7 @@ Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
 
 * [pipi](https://github.com/anki-code/pipi) - The simple way to install PyPi packages using pip from directory, PyPi projects, Github links. 
 
+* [jj](https://github.com/anki-code/jj) - enJoy Json (JJ) is to syntax highlighting and formatting the json, javascript or python dict object in error-tolerant manner. 
+
 * [bar-theme](https://github.com/anki-code/bar-theme) - The shell prompt appearance conception called Bar.
 
