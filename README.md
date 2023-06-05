@@ -41,6 +41,7 @@ Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
     * [xonsh.AppImage](https://xon.sh/appimage.html) - The one Linux-portable executable file which contains both xonsh and Python. Also [on Alpine](https://github.com/xonsh/xonsh/discussions/4158#discussioncomment-462032).
     * [xonsh-binary](https://github.com/anki-code/xonsh-binary) - Building xonsh binary file.
   * External tools:
+    * [xonsh-prewarmed](https://github.com/anki-code/xonsh-prewarmed) - Run interactive xonsh session in milliseconds using prewarmed GNU Screen session from the background. 
     * [xonsh-vim-read](https://github.com/anki-code/xonsh-vim-read) - The xonsh shell wrapper to running the command via vim read.
   * Metapackages:
     * [xontrib-ergopack](https://github.com/anki-code/xontrib-ergopack) - Meta package that installs group of ergonomic xontribs in xonsh shell. 
