@@ -37,7 +37,7 @@ Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
     * [xunter](https://github.com/anki-code/xunter) - Profiling the xonsh shell code using [hunter](https://github.com/ionelmc/python-hunter).
     * [my-xonsh-fork](https://github.com/anki-code/my-xonsh-fork) - Convert your xonsh fork package name to the new.
-    * [xonsh-logo](https://github.com/anki-code/xonsh-cheatsheet) - The xonsh logo, design and pictures for posts, stickers, t-shirts. 
+    * [xonsh-logo](https://github.com/anki-code/xonsh-logo) - The xonsh logo, design and pictures for posts, stickers, t-shirts. 
   * Portable:
     * [xonsh.AppImage](https://xon.sh/appimage.html) - The one Linux-portable executable file which contains both xonsh and Python. Also [on Alpine](https://github.com/xonsh/xonsh/discussions/4158#discussioncomment-462032).
     * [xonsh-binary](https://github.com/anki-code/xonsh-binary) - Building xonsh binary file.
