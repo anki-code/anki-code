@@ -52,6 +52,8 @@ Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
 
 * [tokenize-output](https://github.com/anki-code/tokenize-output) - Get identifiers, names, paths, URLs and words from the command output i.e. use [xontrib-output-search](https://github.com/anki-code/xontrib-output-search).
 
+* [localsql](https://github.com/anki-code/localsql) - Querying csv, xlsx, json local files using SQL as easy as possible.
+
 * [pipi](https://github.com/anki-code/pipi) - The simple way to install PyPi packages using pip from directory, PyPi projects, Github links. 
 
 * [jj](https://github.com/anki-code/jj) - enJoy Json (JJ) is to syntax highlighting and formatting the json, javascript or python dict object in error-tolerant manner. 
