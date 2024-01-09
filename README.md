@@ -47,7 +47,8 @@ Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
     * [xonsh-prewarmed](https://github.com/anki-code/xonsh-prewarmed) - Run interactive xonsh session in milliseconds using prewarmed GNU Screen session from the background. 
     * [xonsh-vim-read](https://github.com/anki-code/xonsh-vim-read) - The xonsh shell wrapper to running the command via vim read.
   * Metapackages:
-    * [xontrib-ergopack](https://github.com/anki-code/xontrib-ergopack) - Meta package that installs group of ergonomic xontribs in xonsh shell. 
+    * [xontrib-ergopack](https://github.com/anki-code/xontrib-ergopack) - Meta package that installs group of ergonomic xontribs in xonsh shell.
+    * [xontrib-openai](https://github.com/anki-code/xontrib-openai) - Use Open AI models in xonsh shell. 
   * Xonsh Enrichment Proposals (XEP):
     * [XEP-2: Xonsh Operators Proposal - Single operator approach](https://github.com/anki-code/xonsh-operators-proposal/blob/main/XEP-2.rst)
 
