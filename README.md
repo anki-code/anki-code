@@ -11,6 +11,7 @@ Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
 * [The xonsh shell](https://xon.sh/) - Python-powered shell.
 
   * Learning:
+    * [xon.sh](https://xon.sh) - I designed and made the main page of xonsh website.
     * [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. 
     * [rc-awesome](https://github.com/anki-code/xontrib-rc-awesome) - Awesome snippets of code for xonshrc in xonsh shell. 
   * Navigation:
