@@ -34,6 +34,7 @@ Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
     * [history-encrypt](https://github.com/anki-code/xontrib-history-encrypt) - History backend that can encrypt the xonsh shell commands history.
   * Dev tools:
     * [xontrib-template](https://github.com/xonsh/xontrib-template) - A template to create, packaging and promote xontrib in 5 minutes.
+    * [xonsh-awesome-cli-app](https://github.com/anki-code/xonsh-awesome-cli-app) - Example of awesome cli app template for xonsh.
     * [macro](https://github.com/anki-code/xontrib-macro) - Library of the useful macro for the xonsh shell. 
     * [hist-format](https://github.com/anki-code/xontrib-hist-format) - Format xonsh history to post it to Github or another page.
     * [docker-xonsh-wrapper](https://github.com/anki-code/docker-xonsh-wrapper) - Wrap an app in docker container and catch the signals from docker using xonsh shell. 
