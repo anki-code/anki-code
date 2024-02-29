@@ -65,8 +65,8 @@
 
 ### My principles
 
-* Leave repeatable examples instead of description. Starting from `docker run` show the list of commands, output and errors that you want to address. This allows people to just copy paste your commands and continue work withot spending hours on rebuilding your environment.
+* **Leave repeatable examples instead of description**. Starting from `docker run` or `pip install` show the list of commands, output and errors that you want to address. This allows people to just copy and paste your commands and continue work withot spending hours on rebuilding your environment.
 
-* Make reusable products. Instead of spreading your code drafts into threads and answers on questions just create a repository with installable library or template and write sane README to reuse your work.
+* **Make reusable products**. Instead of spreading your code drafts around threads, answers and discussions just create a repository with installable library or template and write sane README to reuse your work.
 
 * To be continued...
