@@ -69,4 +69,6 @@
 
 * **Make reusable products**. Instead of spreading your code drafts around threads, answers and discussions just create a repository with installable library or template and write sane README to reuse your work.
 
+* **Do not ignore your feelings around the issues, errors and uncomfortable use cases**. Instead of leaving the things unchanged create the issues, share your thoughts and change what you can.
+
 * To be continued...
