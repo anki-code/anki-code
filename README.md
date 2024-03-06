@@ -70,3 +70,5 @@
 * **Make reusable products**. Instead of spreading your code drafts around threads, answers and discussions just create a repository with installable library or template and write sane README to reuse your work. After this you will have the way to track issues and PRs.
 
 * **Do not ignore your feelings around the issues, errors and uncomfortable use cases**. Instead of leaving the things unchanged create the issues, share your thoughts and change what you can.
+
+* **App code is a platform**. Create apps with flexible, pluggable and extensible structure. Instead of creating the fixed features create code as a platform for new features that users can add. Don't forget describe the pointers to guide the most active users.
