@@ -71,4 +71,4 @@
 
 * **Do not ignore your feelings around the issues, errors and uncomfortable use cases**. Instead of leaving the things unchanged create the issues, share your thoughts and change what you can.
 
-* **App code is a platform**. Create apps with flexible, pluggable and extensible structure. Instead of creating the fixed features create code as a platform for new features that users can add. Don't forget describe the pointers to guide the most active users.
+* **App code is a platform**. Create apps with flexible, pluggable and extensible structure. Instead of creating the fixed features create code as a platform for new features that users can add. Don't forget describe the pointers to guide the most active users. Check that an app can be preconfigured before running using environment variables, config files, lambda functions, dictionaries, etc.
