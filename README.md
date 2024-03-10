@@ -67,8 +67,3 @@
 
 * **Leave repeatable examples instead of description**. Starting from `docker run` or `pip install` show the list of commands, output and errors that you want to address. This allows people to just copy and paste your commands and continue work withot spending hours on rebuilding your environment.
 
-* **Make reusable products**. Instead of spreading your code drafts around threads, answers and discussions just create a repository with installable library or template and write sane README to reuse your work. After this you will have the way to track issues and PRs.
-
-* **Do not ignore your feelings around the issues, errors and uncomfortable use cases**. Instead of leaving the things unchanged create the issues, share your thoughts and change what you can.
-
-* **App code is a platform**. Create apps with flexible, pluggable and extensible structure. Instead of creating the fixed features create code as a platform for new features that users can add. Don't forget describe the pointers to guide the most active users. Check that an app can be preconfigured before running using environment variables, config files, lambda functions, dictionaries, etc.
