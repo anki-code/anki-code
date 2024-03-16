@@ -1,3 +1,5 @@
+I like to create repeatable solutions and IT products.
+
 ### ❤️ Sponsorship
 
 * Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
@@ -67,3 +69,4 @@
 
 * **Leave repeatable examples instead of description**. Starting from `docker run` or `pip install` show the list of commands, output and errors that you want to address. This allows people to just copy and paste your commands and continue work withot spending hours on rebuilding your environment.
 
+* **Code as a product**. Any solution you created for yourself can be transformed to solution to all and the code can be the product if it documented well to reuse.
