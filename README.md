@@ -13,7 +13,7 @@
   * Learning:
     * [xon.sh](https://xon.sh) - I designed and made the main page of xonsh website.
     * [xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. 
-    * [rc-awesome](https://github.com/anki-code/xontrib-rc-awesome) - Awesome snippets of code for xonshrc in xonsh shell. 
+    * [xonsh-rc-awesome](https://github.com/anki-code/xontrib-rc-awesome) - Awesome snippets of code for xonshrc in xonsh shell. 
   * Navigation:
     * [jump-to-dir](https://github.com/anki-code/xontrib-jump-to-dir) - Jump to used before directory by part of the path. Lightweight zero-dependency implementation of autojump or zoxide projects functionality. 
     * [back2dir](https://github.com/anki-code/xontrib-back2dir) - Return to the most recently used directory when starting the xonsh shell.
