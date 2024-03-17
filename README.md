@@ -57,6 +57,8 @@ I like to create repeatable solutions and IT products.
 
 * [tokenize-output](https://github.com/anki-code/tokenize-output) - Get identifiers, names, paths, URLs and words from the command output i.e. use [xontrib-output-search](https://github.com/anki-code/xontrib-output-search).
 
+* [strider](https://github.com/anki-code/strider) - File system navigator for reducing keystrokes and doing thing intuitive. Alternative to cd-ls.
+
 * [localsql](https://github.com/anki-code/localsql) - Querying csv, xlsx, json local files using SQL as easy as possible.
 
 * [pipi](https://github.com/anki-code/pipi) - The simple way to install PyPi packages using pip from directory, PyPi projects, Github links. 
