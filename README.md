@@ -4,6 +4,7 @@ My principles:
 
 * Leave repeatable examples instead of dumb descriptions to allow people reuse your work.
 * Treat code as a product that anybody can extend by additional functionality.
+* Ugly code that committed is better than great code in the imagination.
 
 ### ❤️ Sponsorship
 
