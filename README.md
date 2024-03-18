@@ -1,5 +1,10 @@
 I like to create repeatable solutions and IT products.
 
+My principles:
+
+* Leave repeatable examples instead of dumb descriptions to allow people reuse your work.
+* Treat code as a product that anybody can extend by additional functionality.
+
 ### ❤️ Sponsorship
 
 * Just [buy me a few cups of coffee](https://www.buymeacoffee.com/xxh). Thanks!
@@ -66,9 +71,3 @@ I like to create repeatable solutions and IT products.
 * [jj](https://github.com/anki-code/jj) - enJoy Json (JJ) is to syntax highlighting and formatting the json, javascript or python dict object in error-tolerant manner. 
 
 * [bar-theme](https://github.com/anki-code/bar-theme) - The shell prompt appearance conception called Bar.
-
-### My principles
-
-* **Leave repeatable examples instead of description**. Starting from `docker run` or `pip install` show the list of commands, output and errors that you want to address. This allows people to just copy and paste your commands and continue work withot spending hours on rebuilding your environment.
-
-* **Code as a product**. Any solution you created for yourself can be transformed to solution to all and the code can be the product if it documented well to reuse.
